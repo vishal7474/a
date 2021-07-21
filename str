@@ -1,0 +1,12 @@
+//To print the name “string” using %s
+#include <stdio.h>
+
+int main()
+{
+    
+    char a[]="string";
+	
+	printf("\n name is %s ",a);
+	
+    return 0;
+}
